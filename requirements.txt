@@ -5,3 +5,4 @@ vega-datasets
 pandas
 numpy
 pycomm3
+streamlit-autorefresh
