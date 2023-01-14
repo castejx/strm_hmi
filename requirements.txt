@@ -1,0 +1,7 @@
+streamlit
+black
+altair
+vega-datasets
+pandas
+numpy
+pycomm3
